@@ -5,9 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Carlozxrootrt/Carlozxrootrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Carlozxrootrt/Carlozxrootrt is a ✨ special ✨ repository because its `README.md` (i) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-thanks brother
